@@ -7,3 +7,7 @@
 ### 3. Fourier Methods for Option Pricing
 
 ### 4. Models for Local Volatility - Dupire, CEV, and The Heston Model
+
+### 5. Pricing Interest Rate Options
+
+### 6. Calibrating Models
