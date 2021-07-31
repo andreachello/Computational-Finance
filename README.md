@@ -10,4 +10,4 @@
 
 ### 5. Pricing Interest Rate Options
 
-### 6. Calibrating Models
+### 6. Model Calibration
